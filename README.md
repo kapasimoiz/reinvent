@@ -8,14 +8,14 @@ As per the initial meeting held on 2-Mar-17, we came up with the following list 
 |Technology|Month|Learning Path|Remarks|
 |----|----|----|----|----|----|
 |[Angular JS] (https://github.com/kapasimoiz/angularjs)|March|Moiz-Done|Nitin also wants to cover Material JS, he will come up with notes on that|
-|[MongoDB](https://github.com/kapasimoiz/mongodb)|April|Moiz|MongoDB University course starts from 21st March|
-|[Apache Kafka](https://github.com/kapasimoiz/apache-kafka)|May|Nitin-Todo||
-|[Docker](https://github.com/kapasimoiz/docker)|June|Nitin-Todo||
-|[BigQuery](https://github.com/kapasimoiz/bigquery)|July|Moiz-Todo|||
-|[JMeter](https://github.com/kapasimoiz/jmeter)|August|Moiz-Todo|SoapUI is another tool to master|
+|[MongoDB](https://github.com/kapasimoiz/mongodb)|April|Moiz-Done|MongoDB University course starts from 21st March|
+|[Apache Kafka](https://github.com/kapasimoiz/apache-kafka)|May|Nitin||
+|[Docker](https://github.com/kapasimoiz/docker)|June|Nitin||
+|[BigQuery](https://github.com/kapasimoiz/bigquery)|July|Moiz|||
+|[JMeter](https://github.com/kapasimoiz/jmeter)|August|Moiz|SoapUI is another tool to master|
 |Groovy/R|2017|Individual|Language of choice for Nitin and Moiz respectively|
-|[Amazon Cloud](https://github.com/kapasimoiz/amazon-cloud)|2017|Moiz-Todo|CG partnership - APN network. Moiz has some details|
-|[GCP](https://github.com/kapasimoiz/gcp)|2017|Moiz-Todo|2017|High level view|
+|[Amazon Cloud](https://github.com/kapasimoiz/amazon-cloud)|2017|Moiz|CG partnership - APN network. Moiz has some details|
+|[GCP](https://github.com/kapasimoiz/gcp)|2017|Moiz|2017|High level view|
 
 
 <br>
