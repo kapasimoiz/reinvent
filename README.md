@@ -5,17 +5,17 @@ This readme contains the plan for rest of 2017 (Mar-Dec).
 
 As per the initial meeting held on 2-Mar-17, we came up with the following list technologies to have a good grasp on in the remainder of this year.
 
-|Technology|Month|Learning Path|Github location|Remarks|
+|Technology|Month|Learning Path|Remarks|
 |----|----|----|----|----|----|
-|Angular JS|March|Done|angularjs|Nitin also wants to cover Material JS, he will come up with notes on that|
-|MongoDB|April|Done|mongodb|MongoDB University course starts from 21st March|
-|Apache Kafka|May|Nitin|apache-kafka||
-|Docker|June|Nitin|docker||
-|BigQuery|July|Moiz|bigquery||
-|JMeter|August|Moiz|jmeter|SoapUI is another tool to master|
-|Groovy/R|2017|Individual||Language of choice for Nitin and Moiz respectively|
-|Amazon Cloud|2017|Moiz|amazon-cloud|CG partnership - APN network. Moiz has some details|
-|GCP|2017|Moiz|2017|gcp|High level view|
+|[Angular JS] (https://github.com/kapasimoiz/angularjs)|March|Moiz-Done|Nitin also wants to cover Material JS, he will come up with notes on that|
+|[MongoDB](https://github.com/kapasimoiz/mongodb)|April|Moiz|MongoDB University course starts from 21st March|
+|[Apache Kafka](https://github.com/kapasimoiz/apache-kafka)|May|Nitin-Todo||
+|[Docker](https://github.com/kapasimoiz/docker)|June|Nitin-Todo||
+|[BigQuery](https://github.com/kapasimoiz/bigquery)|July|Moiz-Todo|||
+|[JMeter](https://github.com/kapasimoiz/jmeter)|August|Moiz-Todo|SoapUI is another tool to master|
+|Groovy/R|2017|Individual|Language of choice for Nitin and Moiz respectively|
+|[Amazon Cloud](https://github.com/kapasimoiz/amazon-cloud)|2017|Moiz-Todo|CG partnership - APN network. Moiz has some details|
+|[GCP](https://github.com/kapasimoiz/gcp)|2017|Moiz-Todo|2017|High level view|
 
 
 <br>
